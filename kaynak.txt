@@ -1,0 +1,8 @@
+ne ulan bu mcp server? videosu:
+https://youtu.be/u1PYSKqfHEw?si=h3td5CuEk24zhQlK
+
+huggingface mcp kursu:
+https://huggingface.co/learn/mcp-course
+
+github linki:
+https://github.com/halilkkaya/mcp-anlatim.git
