@@ -257,7 +257,6 @@ AI: araba_ara(marka="toyota", il="istanbul", max_fiyat=200000)
 
 - 📺 **YouTube**: [MCP Server Anlatımı](https://youtu.be/u1PYSKqfHEw?si=h3td5CuEk24zhQlK)
 - 📚 **HuggingFace**: [MCP Kursu](https://huggingface.co/learn/mcp-course)
-- 🔗 **GitHub**: [Bu Proje](https://github.com/halilkkaya/mcp-anlatim.git)
 
 ## 🛠️ Teknik Detaylar
 
@@ -331,7 +330,6 @@ Bu proje MIT lisansı altında yayınlanmıştır. Detaylar için [LICENSE](LICE
 
 **Halil Kaya**
 - 🌐 GitHub: [@halilkkaya](https://github.com/halilkkaya)
-- 📺 YouTube: [AI ve Teknoloji İçerikleri](https://youtu.be/u1PYSKqfHEw)
 
 ## 🙏 Teşekkürler
 
