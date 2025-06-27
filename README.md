@@ -27,12 +27,11 @@ MCP (Model Context Protocol), AI modellerinin dış veri kaynaklarına standartl
 mcp-anlatim/
 ├── 📱 Uygulamalar
 │   ├── app.py              # Ana terminal uygulaması (Claude + MCP)
-│   ├── appst.py            # Streamlit web uygulaması (OpenAI + LangChain)
+│   ├── appst.py            # Streamlit web uygulaması-mcpsiz (OpenAI + LangChain)
 │   └── mcpanlatim.py       # Kapsamlı eğitim ve demo uygulaması
 ├── 🔧 MCP Server
 │   └── dataturkmcp.py      # FastMCP tabanlı araç arama server'ı
 ├── 🗄️ Veri
-│   ├── arabalar.db         # SQLite araç veritabanı
 │   └── veri.xlsx           # Excel format araç verileri
 ├── 📋 Yapılandırma
 │   ├── requirements.txt    # Python bağımlılıkları
